@@ -3,7 +3,7 @@
 
 #It requires two players and each player controls an in-game paddle to hit the ping pong ball back and forth.
 
-#The player gains a point when the player two misses to hit the ball.
+#The player1 gains a point when the player2 misses to hit the ball.
 
 #Kivy is a free and open source Python library for developing mobile apps and
 
