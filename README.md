@@ -1,4 +1,4 @@
-# PingPongGame.apk using Kivy framework and buildozer
+# PingPongGame.apk using Kivy framework and Buildozer
 #PingPong is a two-dimensional sports game that resembles table tennis.
 
 #It requires two players and each player controls an in-game paddle to hit the ping pong ball back and forth.
